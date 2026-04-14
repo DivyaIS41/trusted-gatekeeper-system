@@ -1,0 +1,4 @@
+cryptography
+pandas
+streamlit
+python-dotenv
