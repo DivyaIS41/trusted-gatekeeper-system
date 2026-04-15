@@ -1,4 +1,4 @@
-`~# The Trusted Gatekeeper System
+# The Trusted Gatekeeper System
 
 ## Overview
 The Trusted Gatekeeper System is a Zero-Trust secure communication framework designed for IoT–Fog–Cloud environments.  
